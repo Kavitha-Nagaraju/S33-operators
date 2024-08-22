@@ -1,0 +1,15 @@
+Arithematic operators are perform operations +,-,++,--,%,/,*.that means mathematical calculations.
+Increment means Increment the value by 1
+decrement meane decrement the value by 1
+
+Assignment operators can used for assign the valuues  =,+=,-=,*=,/=,%=.
+comparison operator can compare the two values ==,!=.>=,<=. result it shows only true or false.
+        
+          operators
+          ---------
+              |
+            store
+              |
+            compare
+              |
+            decision
